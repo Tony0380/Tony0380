@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-  <img src="  https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 
 </p>
 
