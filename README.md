@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   CS Student ad University Of Bari "Aldo Moro"
+   CS Student at University Of Bari "Aldo Moro"
 </p>
 
 <h2 align="center">✉️ Contact Me</h2>
