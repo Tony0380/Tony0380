@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   Student at the University of Bari "Aldo Moro", I love working in codes with distributed client-server architecture, estimator of languages for databases
+   CS Student ad University Of Bari "Aldo Moro"
 </p>
 
 <h2 align="center">✉️ Contact Me</h2>
