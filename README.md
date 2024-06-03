@@ -15,8 +15,7 @@
 <br>
 <h4 align="center"> Estimator of:</h4>
 <p align="center">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label=
-   "/> </p>
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label="/> </p>
 
 
 
