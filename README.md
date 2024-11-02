@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, it's <a href="https://www.instagram.com/anto._cola/?next=%2F">Tony</a> </h2> 
+<h2 align="center">👋 Hi, it's <a href="https://www.instagram.com/anto._cola/?next=%2F">Tony</a> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/>
@@ -17,9 +17,6 @@
 <p align="center">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label="/> </p>
 
-
-
-<h2 align="center">✉️ Contact Me</h2>
-<p align="center">
-  <a href="https://discordapp.com/users/358635575932223498" target="_blank"><img src="https://img.shields.io/badge/discord-%237489DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+<h2 align="center">
+<a href="tony0380.github.io"> Website 🌐</a>
+</h2>
