@@ -1,111 +1,98 @@
-<table>
-<tr>
-<td width="180">
-  <img src="https://github.com/Tony0380.png" width="160" style="border-radius:50%"/>
-</td>
-<td>
+<h1 align="center">
+  Hi, I'm <a href="https://www.antoniocolamartino.it">Tony</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-## Antonio Colamartino
-**Aspiring Machine Learning Engineer**
-CS Student @ University of Bari *"Aldo Moro"* &nbsp;·&nbsp; Bari, Italy
-
-<sub>Interested in building intelligent systems that bridge research and production — from training the model to shipping the API.</sub>
-
-<a href="https://www.antoniocolamartino.it"><img src="https://img.shields.io/badge/Website-antoniocolamartino.it-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.instagram.com/anto._cola/"><img src="https://img.shields.io/badge/Instagram-@anto._cola-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/Tony0380"><img src="https://img.shields.io/badge/GitHub-Tony0380-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Research Interests
-
-- **Deep Learning** — neural architectures, representation learning, transfer learning
-- **Natural Language Processing** — transformer models, LLMs, fine-tuning, RAG systems
-- **Computer Vision** — convolutional networks, object detection, image segmentation
-- **MLOps** — model deployment, monitoring, reproducibility, CI/CD for ML pipelines
-- **Applied ML** — solving real-world problems where data meets domain knowledge
-
----
-
-## Currently Working On
-
-- Strengthening foundations in **probability, linear algebra and optimization** alongside hands-on projects
-- Exploring **transformer-based architectures** for NLP and multi-modal tasks
-- Studying **MLOps best practices** — experiment tracking, containerization, model serving
-- Personal projects in **Python** integrating ML pipelines with web applications
-
----
-
-## Tech I Use Daily
-
-#### Machine Learning Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<p align="center">
+  <em>Machine Learning Engineer in the making — turning data into decisions, one gradient step at a time.</em>
 </p>
 
-#### Data & Scientific Computing
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-#### MLOps & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-#### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-#### Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<p align="center">
+  <a href="https://www.antoniocolamartino.it"><img src="https://img.shields.io/badge/Portfolio-antoniocolamartino.it-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.instagram.com/anto._cola/"><img src="https://img.shields.io/badge/Instagram-@anto._cola-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Tony0380&style=for-the-badge&color=0A0A0A&label=Visitors"/>
 </p>
 
 ---
 
-## Beyond the Code
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me
 
-<sub>Lifelong **estimator of Alfa Romeo** — because elegant engineering, much like elegant code, is recognized at first sight.</sub>
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name        = "Antonio Colamartino"
+        self.alias       = "Tony"
+        self.role        = "Aspiring ML Engineer"
+        self.education   = "CS @ University of Bari 'Aldo Moro'"
+        self.location    = "Bari, Italy 🇮🇹"
+        self.languages   = ["Python", "C++", "Java", "C#", "SQL"]
+        self.focus       = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+        self.fun_fact    = "Lifetime estimator of Alfa Romeo 🏎️"
 
-<p>
-  <img src="https://img.shields.io/static/v1?style=flat-square&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label="/>
+    def current_mission(self):
+        return "Building intelligent systems that actually ship to production."
+```
+
+---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> ML & AI Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages & Tooling
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
 </p>
 
 ---
 
-<blockquote>
-  <em>"Attention Is All You Need."</em><br>
-  <sub>— Vaswani et al., 2017</sub>
-</blockquote>
+<h4 align="center">Estimator of:</h4>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alfa+Romeo&color=981E32&logo=Alfa+Romeo&logoColor=FFFFFF&label="/>
+</p>
 
-<p align="right">
-  <sub><a href="https://www.antoniocolamartino.it">www.antoniocolamartino.it</a></sub>
+---
+
+<h3 align="center">
+  <em>"All models are wrong, but some are useful."</em><br>
+  <sub>— George Box</sub>
+</h3>
+
+<p align="center">
+  <a href="https://www.antoniocolamartino.it">🌐 antoniocolamartino.it</a>
 </p>
