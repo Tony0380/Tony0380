@@ -89,8 +89,8 @@ class Profile:
 ---
 
 <h3 align="center">
-  <em>"All models are wrong, but some are useful."</em><br>
-  <sub>— George Box</sub>
+  <em>"It's not a bug, it's an undocumented feature."</em><br>
+  <sub>— Stack Overflow wisdom</sub>
 </h3>
 
 <p align="center">
