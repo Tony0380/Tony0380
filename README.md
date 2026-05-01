@@ -18,7 +18,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me
 
 ```python
-class MLEngineer:
+class Me:
     def __init__(self):
         self.name        = "Antonio Colamartino"
         self.alias       = "Tony"
