@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Machine Learning Engineer in the making — turning data into decisions, one gradient step at a time.</em>
+  <em>Machine Learning Engineer in the making, turning data into decisions, one gradient step at a time.</em>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ class Profile:
 
 <h3 align="center">
   <em>"It's not a bug, it's an undocumented feature."</em><br>
-  <sub>— Stack Overflow wisdom</sub>
+  <sub>Stack Overflow wisdom</sub>
 </h3>
 
 <p align="center">
