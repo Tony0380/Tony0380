@@ -89,8 +89,7 @@ class Profile:
 ---
 
 <h3 align="center">
-  <em>"It's not a bug, it's an undocumented feature."</em><br>
-  <sub>Stack Overflow wisdom</sub>
+  <em>"It's not a bug, it's an undocumented feature."</em>
 </h3>
 
 <p align="center">
