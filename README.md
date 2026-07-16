@@ -15,26 +15,6 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me
-
-```python
-class Profile:
-    def __init__(self):
-        self.name        = "Antonio Colamartino"
-        self.alias       = "Tony"
-        self.role        = "Aspiring ML Engineer"
-        self.education   = "CS @ University of Bari 'Aldo Moro'"
-        self.location    = "Bari, Italy 🇮🇹"
-        self.languages   = ["Python", "C++", "Java", "C#", "SQL"]
-        self.focus       = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.fun_fact    = "Lifetime estimator of Alfa Romeo 🏎️"
-
-    def current_mission(self):
-        return "Building intelligent systems that actually ship to production."
-```
-
----
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> ML & AI Stack
 
 <p align="center">
